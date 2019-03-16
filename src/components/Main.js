@@ -221,9 +221,12 @@ class Main extends React.Component {
           </form>
           <ul className="icons">
             <li>
-              <a href="#" className="icon fa-file-text-o">
+              {/* <a href="#" className="icon fa-file-text-o">
                 <span className="label">Resume</span>
-              </a>
+              </a> */}
+              <button className="icon fa-file-text-o">
+                <span className="label">Resume</span>
+              </button>
             </li>
             <li>
               <a
