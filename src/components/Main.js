@@ -222,6 +222,7 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
+                target="blank"
                 href="https://resume.creddle.io/resume/3upx41jl06s"
                 className="icon fa-file-text-o"
               >
@@ -233,6 +234,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
+                target="blank"
                 href="https://www.linkedin.com/in/jeffrey-kang-4937b117a/"
                 className="icon fa-linkedin"
               >
@@ -241,6 +243,7 @@ class Main extends React.Component {
             </li>
             <li>
               <a
+                target="blank"
                 href="https://github.com/jeffyjkang"
                 className="icon fa-github"
               >
