@@ -1,9 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import ice from '../images/ice.jpg'
-import water from '../images/water.jpg'
-import rock from '../images/rock.jpg'
+import ice from '../images/Ice.jpg'
+import water from '../images/Water.jpg'
+import rock from '../images/Rock.jpg'
 
 class Main extends React.Component {
   render() {
