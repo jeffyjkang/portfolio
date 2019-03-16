@@ -1,2 +1,0 @@
-# portfolio
-Jeff's portfolio
