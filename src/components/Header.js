@@ -3,10 +3,7 @@ import PropTypes from 'prop-types'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { fab } from '@fortawesome/free-brands-svg-icons'
-// import { fas } from '@fortawesome/free-solid-svg-icons'
 library.add(fab)
-// import { library } from '@fortawesome/fontawesome-svg-core'
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>

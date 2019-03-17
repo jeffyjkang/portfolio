@@ -34,15 +34,26 @@ class Main extends React.Component {
             <img className="introImage" src={ice} alt="" />
           </span>
           <p>
-            Full-Stack Web Developer and software engineer. Specializing in
-            technical operations, management and customer service forged through
-            10+ years in various fields of work.
+            I am a full-stack web developer with a background in management,
+            interpersonal relations and trade operations. In my leadership
+            roles, I have learned the importance of being reliable, timely,
+            having a strong work ethic, and the importance of leading by
+            example. I enjoy working with teams and sharing ideas through
+            collaboration. I try my best to empathize with others and I feel
+            this has helped me tremendously with my experiences in sales,
+            purchasing and customer service. I think communication is important
+            in every aspect of life, and having the ability to clearly convey
+            your message is crucial, but listening effectively is just as
+            important. In my more technical roles I have learned to be
+            structured, disciplined and detail oriented. My education has taught
+            me to think flexibly, be persistent, learning never ends, and always
+            be curious.
           </p>
           <p>
-            Exhibits an optimistic perspective, enthusiasm and eagerness to
-            help. Advocates synergy with associates to prioritize collective
-            accolades above personal achievements. Possesses a strong conviction
-            for learning to develop and improve invariably.
+            My skills include:
+            <br />
+            Git control, html, css, css preprocessors, javacript, react, redux,
+            node.js, express, sql, postgress, python, C
           </p>
           {close}
         </article>
@@ -129,10 +140,7 @@ class Main extends React.Component {
             <strong> # of people: </strong> 1
             <br />
             <strong> Link: </strong>{' '}
-            <a
-              target="blank"
-              href="https://suspicious-hugle-5f1b77.netlify.com/"
-            >
+            <a target="blank" href="https://jeffsnotes.netlify.com/">
               JeffsNotes
             </a>
           </p>
@@ -152,29 +160,18 @@ class Main extends React.Component {
           </span>
           <p>
             I consider myself to be immensely fortunate to have found something
-            I am sincerely passionate about. I also realize there are many
-            people who do not share my excitement and attitude about their field
-            of study. Therefore I pledge to never idle and take for granted the
-            opportunities that are given to me. After being involved in a few
+            I am sincerely passionate about. After being involved in a few
             different divisions of employment, including management, logistics,
             hardware technician, sales and purchasing, I found software
-            engineering and computer science. For me, a flood gate was opened
-            and I quickly became enthralled in the world of discovering new tech
-            and creating software. I can honestly and wholeheartedly say I have
-            never been as disciplined and focused about software tech compared
-            to anything else in my life. I plan to continue learning
-            indefinitely and have created schedules to adhere to this. This
-            includes research of new tech, algorithms, data structures,
-            revision, review and creating projects.
+            engineering and computer science. I plan to continue learning
+            indefinitely about this vast and dynamic filed of study.
           </p>
           <p>
-            Growing up I was always curious about finding truths and I am still
-            the type of person to be constantly google-ing or researching about
-            anything and everything. I have always wanted to be able to make an
-            impact on a global scale and I feel the path I am on now will allow
-            for this. Another feature that I find immensely rewarding is the
-            intellectual stimulation that comes along with learning about new
-            technologies, libraries and frameworks.
+            I have always wanted to be able to make an impact on a global scale
+            and I feel the path I am on now will allow for this. Another feature
+            that I find immensely rewarding is the intellectual stimulation that
+            comes along with learning about new technologies, libraries and
+            frameworks.
           </p>
           <p>
             I am elated to have found and continue to be a part of Lambda School
@@ -184,7 +181,7 @@ class Main extends React.Component {
             so many tools at my disposable but I feel the greatest tool that
             they provided me was the ability to self-learn and the confidence to
             be able to learn anything no matter how intimidating it may be at
-            first.{' '}
+            first.
           </p>
           {close}
         </article>
