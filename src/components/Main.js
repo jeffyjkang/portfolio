@@ -161,18 +161,13 @@ class Main extends React.Component {
           <p>
             I consider myself to be immensely fortunate to have found something
             I am sincerely passionate about. After being involved in a few
-            different divisions of employment, including management, logistics,
-            hardware technician, sales and purchasing, I found software
-            engineering and computer science. I plan to continue learning
-            indefinitely about this vast and dynamic filed of study.
+            different divisions of employment I found software engineering and
+            computer science. I plan to continue learning indefinitely about
+            this vast and dynamic filed of study. I have always wanted to be
+            able to make an impact on a global scale and I feel the path I am on
+            now will allow for this.
           </p>
-          <p>
-            I have always wanted to be able to make an impact on a global scale
-            and I feel the path I am on now will allow for this. Another feature
-            that I find immensely rewarding is the intellectual stimulation that
-            comes along with learning about new technologies, libraries and
-            frameworks.
-          </p>
+
           <p>
             I am elated to have found and continue to be a part of Lambda School
             which was the vehicle that allowed me to push my knowledge and help
