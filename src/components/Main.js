@@ -4,6 +4,9 @@ import PropTypes from 'prop-types'
 import ice from '../images/Ice.jpg'
 import water from '../images/Water.jpg'
 import rock from '../images/Rock.jpg'
+import profile from '../images/Profile.jpg'
+
+import Carousel from './Carousel'
 
 class Main extends React.Component {
   render() {
@@ -35,19 +38,14 @@ class Main extends React.Component {
           </span>
           <p>
             I am a full-stack web developer with a background in management,
-            interpersonal relations and trade operations. In my leadership
-            roles, I have learned the importance of being reliable, timely,
-            having a strong work ethic, and the importance of leading by
-            example. I enjoy working with teams and sharing ideas through
-            collaboration. I try my best to empathize with others and I feel
-            this has helped me tremendously with my experiences in sales,
-            purchasing and customer service. I think communication is important
-            in every aspect of life, and having the ability to clearly convey
-            your message is crucial, but listening effectively is just as
-            important. In my more technical roles I have learned to be
-            structured, disciplined and detail oriented. My education has taught
-            me to think flexibly, be persistent, learning never ends, and always
-            be curious.
+            interpersonal relations and trade operations. Through my
+            experiences, I have learned the importance of being reliable and
+            timely. I enjoy working with teams and sharing ideas through
+            collaboration. I find that leading by example and not through giving
+            orders is often the best way to accomplish tasks. I think being
+            articulate when communicating is critical, but listening effectively
+            is just as important. I strive to think flexibly, be persistent, and
+            always remain curious.
           </p>
           <p>
             My skills include:
@@ -169,15 +167,12 @@ class Main extends React.Component {
           </p>
 
           <p>
-            I am elated to have found and continue to be a part of Lambda School
-            which was the vehicle that allowed me to push my knowledge and help
-            develop me into a full-stack web engineer. I am passionate about
-            every aspect, from designing to front-end and back-end. I now have
-            so many tools at my disposable but I feel the greatest tool that
-            they provided me was the ability to self-learn and the confidence to
-            be able to learn anything no matter how intimidating it may be at
-            first.
+            I am grateful to have found and continue to be a part of Lambda
+            School which was the vehicle that allowed me to push my knowledge
+            and help develop me into a full-stack web engineer. I am passionate
+            about every aspect, from designing to front-end and back-end.
           </p>
+          <Carousel />
           {close}
         </article>
 
@@ -189,7 +184,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          <form method="post" action="#">
+          {/* <form method="post" action="#">
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
@@ -210,7 +205,12 @@ class Main extends React.Component {
                 <input type="reset" value="Reset" />
               </li>
             </ul>
-          </form>
+          </form> */}
+          <img className="picture" src={profile} alt="personal" />
+          <h5>
+            Take a look at my resume, connect with me via LinkedIn or github
+            <br /> Or contact me via my email below:
+          </h5>
           <ul className="icons">
             <li>
               <a
