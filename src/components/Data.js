@@ -11,6 +11,12 @@ const carouselSlidesData = [
     author: 'Ryan Boris',
     source: 'Teaching assistant at Lambda School',
   },
+  {
+    content:
+      "To say that it is a blessing to have Jeff as a Project Manager would be an understatement, Jeff has been the single most important influence on my learning the world of Development. He's always there to help, class time or not, and always has the right advice to get me moving forward. Very thankful for the patience Jeff has shown to a struggling student like me. Jeff has an abundant wealth of knowledge pertaining to the class materials and the patience to manage 10+ struggling stressed out students.  Thanks again Jeff!",
+    author: 'Max Keller',
+    source: 'Current Student at Lambda School',
+  },
 ]
 
 export default carouselSlidesData
