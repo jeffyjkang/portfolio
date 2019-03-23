@@ -17,6 +17,12 @@ const carouselSlidesData = [
     author: 'Max Keller',
     source: 'Current Student at Lambda School',
   },
+  {
+    contnet:
+      'Jeffrey Kang is a great instructor. In just four short weeks, I learned techniques that I will use for the rest of my life to improve efficiency, and technical skills. Textbooks can prescribe writing basics, but there’s no replacement for the way Jeffrey’s professionalism helps us in our work environments.',
+    author: 'Shayaan Akbar',
+    source: 'Current Student at Lambda School',
+  },
 ]
 
 export default carouselSlidesData

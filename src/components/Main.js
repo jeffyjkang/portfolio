@@ -227,7 +227,7 @@ class Main extends React.Component {
             <li>
               <a
                 target="blank"
-                href="https://www.linkedin.com/in/jeffrey-kang-4937b117a/"
+                href="https://www.linkedin.com/in/jeffrey-y-kang/"
                 className="icon fa-linkedin"
               >
                 <span className="label">LinkedIn</span>
