@@ -23,6 +23,12 @@ const carouselSlidesData = [
     author: 'Shayaan Akbar',
     source: 'Current Student at Lambda School',
   },
+  {
+    content:
+      "I have known Jeffrey Kang since August of 2018, when I became a student at Lambda School. First, as my project manager and later, as a colleague in Lambda's capstone project section. Lambda is a fast-paced, dense curriculum and working with Jeffrey was relief. He was able to simplify lessons, astutely explain complicated programming concepts, review our daily assignments for accuracy and offer refactoring suggestions to help us write more concise code. Later, Jeffrey and I worked together on a 5-week project, FlyteLog, as a challenge to the skills we learned. At every level of development Jeffrey was at the forefront, planning, developing and refactoring. I know he spent many late nights working out bugs and implementing new features. Jeff's knowledge, patience and persistence were very important to my success as a student at Lambda and to the success of our capstone project. He is a diligent and hard-working person who I know would be a great addition at any business where he was hired.",
+    author: 'Wanda Evans',
+    source: 'Current Student at Lambda School',
+  },
 ]
 
 export default carouselSlidesData
