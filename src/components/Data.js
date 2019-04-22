@@ -29,6 +29,12 @@ const carouselSlidesData = [
     author: 'Wanda Evans',
     source: 'Current Student at Lambda School',
   },
+  {
+    content:
+      'jeffrey kang has been an amazing teacher assistant, whenever I struggled he always had a way of helping my brain tackle problems without directly just giving me the answers which I always appreciated, very well knowledgeable in web development and I know I can always count on him for help or advice tackling web development issues',
+    author: 'Junior Dugue',
+    source: 'Current Student at Lambda School',
+  },
 ]
 
 export default carouselSlidesData
