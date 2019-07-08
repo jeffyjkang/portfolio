@@ -86,8 +86,8 @@ class Main extends React.Component {
               AirFitness
             </a>
             <br />
-            <string>Repository: </string> {' '}
-            <a target='blank' href="https://github.com/airfitness">
+            <strong>Repository: </strong>{' '}
+            <a target="blank" href="https://github.com/airfitness">
               Github/AirFitness
             </a>
           </p>
@@ -135,8 +135,11 @@ class Main extends React.Component {
               FlyteLog
             </a>
             <br />
-            <strong> Repository: </strong> {' '}
-            <a target="blank" href="https://github.com/Lambda-School-Labs/labs9-flight-log">
+            <strong> Repository: </strong>{' '}
+            <a
+              target="blank"
+              href="https://github.com/Lambda-School-Labs/labs9-flight-log"
+            >
               Github/FlyteLog
             </a>
           </p>
@@ -158,10 +161,18 @@ class Main extends React.Component {
             </a>
             <br />
             <strong> Repository: </strong>{' '}
-            <a target="blank" href="https://github.com/jeffyjkang/back-end-project-week">
+            <a
+              target="blank"
+              href="https://github.com/jeffyjkang/back-end-project-week"
+            >
               Github/JeffsNotes/backend
-            </a> {' '}
-            <a target="blank" href="https://github.com/jeffyjkang/front-end-project-week">
+            </a>
+            <br />
+            <strong> Repository: </strong>{' '}
+            <a
+              target="blank"
+              href="https://github.com/jeffyjkang/front-end-project-week"
+            >
               Github/JeffsNotes/frontend
             </a>
           </p>
@@ -207,28 +218,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          {/* <form method="post" action="#">
-            <div className="field half first">
-              <label htmlFor="name">Name</label>
-              <input type="text" name="name" id="name" />
-            </div>
-            <div className="field half">
-              <label htmlFor="email">Email</label>
-              <input type="text" name="email" id="email" />
-            </div>
-            <div className="field">
-              <label htmlFor="message">Message</label>
-              <textarea name="message" id="message" rows="4" />
-            </div>
-            <ul className="actions">
-              <li>
-                <input type="submit" value="Send Message" className="special" />
-              </li>
-              <li>
-                <input type="reset" value="Reset" />
-              </li>
-            </ul>
-          </form> */}
           <img className="picture" src={profile} alt="personal" />
           <h5>
             Take a look at my resume, connect with me via LinkedIn or github
@@ -243,9 +232,6 @@ class Main extends React.Component {
               >
                 <span className="label">Resume</span>
               </a>
-              {/* <button className="icon fa-file-text-o">
-                <span className="label">Resume</span>
-              </button> */}
             </li>
             <li>
               <a
