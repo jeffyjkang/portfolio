@@ -85,6 +85,11 @@ class Main extends React.Component {
             <a target="blank" href="https://af.netlify.com/">
               AirFitness
             </a>
+            <br />
+            <string>Repository: </string> {' '}
+            <a target='blank' href="https://github.com/airfitness">
+              Github/AirFitness
+            </a>
           </p>
           <h5> Artfolio </h5>
           <p>
@@ -103,6 +108,11 @@ class Main extends React.Component {
             <strong> Link: </strong>{' '}
             <a target="blank" href="https://artfolio-landing.netlify.com/">
               ArtFolio
+            </a>
+            <br />
+            <strong>Repository: </strong>{' '}
+            <a target="blank" href="https://github.com/artfoliobuild">
+              Github/ArtFolio
             </a>
           </p>
           <h5>Flytelog</h5>
@@ -124,6 +134,11 @@ class Main extends React.Component {
             <a target="blank" href="https://lab9-flightlogs.firebaseapp.com/">
               FlyteLog
             </a>
+            <br />
+            <strong> Repository: </strong> {' '}
+            <a target="blank" href="https://github.com/Lambda-School-Labs/labs9-flight-log">
+              Github/FlyteLog
+            </a>
           </p>
           <h5>JeffsNotes</h5>
           <p>
@@ -140,6 +155,14 @@ class Main extends React.Component {
             <strong> Link: </strong>{' '}
             <a target="blank" href="https://jeffsnotes.netlify.com/">
               JeffsNotes
+            </a>
+            <br />
+            <strong> Repository: </strong>{' '}
+            <a target="blank" href="https://github.com/jeffyjkang/back-end-project-week">
+              Github/JeffsNotes/backend
+            </a> {' '}
+            <a target="blank" href="https://github.com/jeffyjkang/front-end-project-week">
+              Github/JeffsNotes/frontend
             </a>
           </p>
           {close}
