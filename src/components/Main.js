@@ -67,6 +67,33 @@ class Main extends React.Component {
           <span className="image main">
             <img src={water} alt="" />
           </span>
+          <h5>Conway's Game Of Life</h5>
+          <p>
+            <strong>Description: </strong> Simple zero-player game app based on
+            the cellular automaton devised by mathematician John Horton Conway.
+            After setting up initial parameters, app follows the rules of the
+            game which are the following: 1. Any live cell with less than two
+            live neighbors dies. 2. Any live cell with two or three neighbors
+            lives. 3. Any live cell with more than three neighbors dies. Any
+            dead cell with exactly three neighbors becomes a live cell. This
+            process continues repeatedly to create furthur generations.
+            <br />
+            <strong> Tech-stack:</strong> React, Css
+            <br />
+            <strong> # of people involved: </strong> 1
+            <br />
+            <strong> Link: </strong>{' '}
+            <a target="blank" href="https://conwaysgol.netlify.com/">
+              Conway's Game of Life
+            </a>
+            <strong> Repository: </strong>{' '}
+            <a
+              target="blank"
+              href="https://github.com/jeffyjkang/conwaysgameoflife"
+            >
+              Github/ConwaysGameOfLife
+            </a>
+          </p>
           <h5> Airfitness </h5>
           <p>
             <strong> Description: </strong> Airfitness allows instructors to
