@@ -86,6 +86,7 @@ class Main extends React.Component {
             <a target="blank" href="https://conwaysgol.netlify.com/">
               Conway's Game of Life
             </a>
+            <br />
             <strong> Repository: </strong>{' '}
             <a
               target="blank"
