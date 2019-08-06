@@ -67,6 +67,30 @@ class Main extends React.Component {
           <span className="image main">
             <img src={water} alt="" />
           </span>
+          <h5>Health Logger</h5>
+          <p>
+            <strong>Description</strong>
+            Health journal which allows logs of exercises, food intake, sleep and miscellaneous notes.
+            Organized into monthly goals, weekly plan and daily notes. Jwt for auth.
+            <br />
+            <strong> Tech-stack:</strong> React, Node, express, Postgres, Material-UI
+            <br />
+            <strong> # of people invlovled: </strong> 1
+            <br />
+            <strong> Link: </strong> {' '}
+            <a target="blank" href="https://healthlogger.netlify.com/">
+              Healthlogger
+            </a>
+            <br />
+            <strong>Repository: </strong>
+            <a traget="blank" href="https://github.com/jeffyjkang/healthback">
+              Github/Healthlogger/backend
+            </a>
+            <strong>Repository: </strong> {'  '}
+            <a target="blank" href="https://github.com/jeffyjkang/healthfront">
+              Github/Healthlogger/frontend
+            </a>
+          </p>
           <h5>Conway's Game Of Life</h5>
           <p>
             <strong>Description: </strong> Simple zero-player game app based on
@@ -181,7 +205,7 @@ class Main extends React.Component {
             <br />
             <strong> Tech-stack: </strong> React, Node.js/SQL
             <br />
-            <strong> # of people: </strong> 1
+            <strong> # of people involved: </strong> 1
             <br />
             <strong> Link: </strong>{' '}
             <a target="blank" href="https://jeffsnotes.netlify.com/">
