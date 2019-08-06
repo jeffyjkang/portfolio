@@ -85,7 +85,7 @@ class Main extends React.Component {
             </a>
             <br />
             <strong>Repository: </strong>
-            <a traget="blank" href="https://github.com/jeffyjkang/healthback">
+            <a target="blank" href="https://github.com/jeffyjkang/healthback">
               Github/Healthlogger/backend
             </a>
             <br />
