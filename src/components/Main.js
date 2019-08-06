@@ -69,15 +69,17 @@ class Main extends React.Component {
           </span>
           <h5>Health Logger</h5>
           <p>
-            <strong>Description</strong>
-            Health journal which allows logs of exercises, food intake, sleep and miscellaneous notes.
-            Organized into monthly goals, weekly plan and daily notes. Jwt for auth.
+            <strong>Description: </strong>
+            Health journal which allows logs of exercises, food intake, sleep
+            and miscellaneous notes. Organized into monthly goals, weekly plan
+            and daily notes. Jwt for auth.
             <br />
-            <strong> Tech-stack:</strong> React, Node, express, Postgres, Material-UI
+            <strong> Tech-stack:</strong> React, Node, express, Postgres,
+            Material-UI
             <br />
             <strong> # of people invlovled: </strong> 1
             <br />
-            <strong> Link: </strong> {' '}
+            <strong> Link: </strong>{' '}
             <a target="blank" href="https://healthlogger.netlify.com/">
               Healthlogger
             </a>
@@ -86,6 +88,7 @@ class Main extends React.Component {
             <a traget="blank" href="https://github.com/jeffyjkang/healthback">
               Github/Healthlogger/backend
             </a>
+            <br />
             <strong>Repository: </strong> {'  '}
             <a target="blank" href="https://github.com/jeffyjkang/healthfront">
               Github/Healthlogger/frontend
