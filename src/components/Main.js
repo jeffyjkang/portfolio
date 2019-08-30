@@ -67,6 +67,41 @@ class Main extends React.Component {
           <span className="image main">
             <img src={water} alt="" />
           </span>
+          <h5>Neighborhood Library</h5>
+          <p>
+            <strong>Description: </strong>
+            An application that allows users to search for personal libraries in
+            their area. Search for books across three library apis and add
+            books, or manually add books to your personal collection. Search
+            other libraries seamlessly using google maps api and enjoy simple
+            google authentication with firebase auth.
+            <br />
+            <strong> Tech-stack:</strong> React, Node, express, No-sql db,
+            Reactstrap
+            <br />
+            <strong> # of people invlovled: </strong> 3
+            <br />
+            <strong> Link: </strong>{' '}
+            <a target="blank" href="https://neighborhoodlibrary.netlify.com/">
+              NeighborhoodLibrary
+            </a>
+            <br />
+            <strong>Repository: </strong>
+            <a
+              target="blank"
+              href="https://github.com/neighborhoodlibrary/backend/"
+            >
+              Github/NeighborhoodLibrary/backend
+            </a>
+            <br />
+            <strong>Repository: </strong> {'  '}
+            <a
+              target="blank"
+              href="https://github.com/neighborhoodlibrary/frontend/"
+            >
+              Github/NeighborhoodLibrary/frontend
+            </a>
+          </p>
           <h5>Health Logger</h5>
           <p>
             <strong>Description: </strong>
