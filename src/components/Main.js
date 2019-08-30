@@ -41,11 +41,9 @@ class Main extends React.Component {
             interpersonal relations and trade operations. Through my
             experiences, I have learned the importance of being reliable and
             timely. I enjoy working with teams and sharing ideas through
-            collaboration. I find that leading by example and not through giving
-            orders is often the best way to accomplish tasks. I think being
-            articulate when communicating is critical, but listening effectively
-            is just as important. I strive to think flexibly, be persistent, and
-            always remain curious.
+            collaboration. I think being articulate when communicating is
+            critical, but listening effectively is just as important. I strive
+            to think flexibly, be persistent, and always remain curious.
           </p>
           <p>
             My skills include:
